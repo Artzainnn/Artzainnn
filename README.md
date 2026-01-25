@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I’m Maxime 👋
 
-<!--
-**Artzainnn/Artzainnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entrepreneur with 2 exits based in Singapore and startup coach.
+I build and launch products fast, test them in the real world, and double down on what works.
 
-Here are some ideas to get you started:
+Currently running a Startup Studio focused on AI apps, SEO, distribution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- **MediaBoost** – Guaranteed media placements & high-authority backlinks boost SEO, AIO and social proof
+  https://mediaboost.io
+
+- **ScalePages** – Programmatic SEO pages at scale, made easy with no technical skills needed
+  https://scalepages.io
+
+- **ClaudeUsageBar** – A lightweight macOS menu bar app that shows your Claude usage in real-time. 
+  https://claudeusagebar.com
+
+### 🧠 What I work on
+- Shipping MVPs fast
+- SEO & programmatic growth
+- Distribution > features
+- Startup economics & leverage
+
+### 📫 Find me
+- X / Twitter: https://x.com/MaximeMB_
