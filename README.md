@@ -22,4 +22,4 @@ Currently running a Startup Studio focused on AI apps, SEO, distribution.
 - Startup economics & leverage
 
 ### 📫 Find me
-- X / Twitter: https://x.com/MaximeMB_
+- X / Twitter: https://x.com/MaximeMB_ 
