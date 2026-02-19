@@ -15,6 +15,9 @@ Currently running a Startup Studio focused on AI apps, SEO, distribution.
 - **ClaudeUsageBar** – A lightweight macOS menu bar app that shows your Claude usage in real-time. 
   https://claudeusagebar.com
 
+- **JobQuantum.com** – The main job board for Quantum careers. 
+  https://jobquantum.com
+
 ### 🧠 What I work on
 - Shipping MVPs fast
 - SEO & programmatic growth
@@ -23,3 +26,6 @@ Currently running a Startup Studio focused on AI apps, SEO, distribution.
 
 ### 📫 Find me
 X / Twitter: [https://x.com/MaximeMB_](https://x.com/MaximeMB\_)
+
+### 🚧 Work with me
+Tech Agency: https://metabay.studio
