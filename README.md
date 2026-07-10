@@ -7,16 +7,20 @@ Currently running a Startup Studio focused on AI apps, SEO, distribution.
 
 ### 🚀 Projects
 - **MediaBoost** – Guaranteed media placements & high-authority backlinks boost SEO, AIO and social proof
-  https://mediaboost.cc
-
-- **ScalePages** – Programmatic SEO pages at scale, made easy with no technical skills needed
-  https://scalepages.co
+  https://mediaboost.press
 
 - **ClaudeUsageBar** – A lightweight macOS menu bar app that shows your Claude usage in real-time. 
   https://claudeusagebar.com
 
+- **TickerCompare** – Side-by-side ETF and stock comparisons: fees, index, domicile, performance
+  https://tickercompare.com
+
 - **JobQuantum.com** – The main job board for Quantum careers. 
   https://jobquantum.com
+
+- **Dot Digital Networks** – Registry venture applying for a gTLD 
+  https://dotdigitalnetworks.com
+  
 
 ### 🧠 What I work on
 - Shipping MVPs fast
@@ -25,7 +29,10 @@ Currently running a Startup Studio focused on AI apps, SEO, distribution.
 - Startup economics & leverage
 
 ### 📫 Find me
-X / Twitter: [https://x.com/MaximeMB_](https://x.com/MaximeMB\_)
+X / Twitter: [https://x.com/buildingitmyway](https://x.com/buildingitmyway)
 
 ### 🚧 Work with me
-Tech Agency: https://metabay.studio
+- **Metabay Studio** – Startup studio & product agency: we design, build and ship software
+  https://metabay.studio
+  - **Building It My Way** – Building in public: documenting my founder's journey through video series
+  https://buildingitmyway.com
